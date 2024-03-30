@@ -3,6 +3,7 @@
 ## JPG/TIFF/RIF WAV
 
 - EXIF data in the description field specifying the alt text for the image
+- [CIPA Standards](https://cipa.jp/e/std/std-sec.html)
 
 ## PNG
 
